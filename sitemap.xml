@@ -2,56 +2,41 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     
         <url>
-            <loc>https://zola-after-dark.netlify.com/</loc>
+            <loc>https://aburd.github.io/</loc>
             
         </url>
     
         <url>
-            <loc>https://zola-after-dark.netlify.com/categories/</loc>
+            <loc>https://aburd.github.io/categories/</loc>
             
         </url>
     
         <url>
-            <loc>https://zola-after-dark.netlify.com/categories/hello-world/</loc>
+            <loc>https://aburd.github.io/categories/hello-world/</loc>
             
         </url>
     
         <url>
-            <loc>https://zola-after-dark.netlify.com/page/1/</loc>
+            <loc>https://aburd.github.io/categories/projects/</loc>
             
         </url>
     
         <url>
-            <loc>https://zola-after-dark.netlify.com/some-article/</loc>
-            
-                <lastmod>2017-09-24</lastmod>
+            <loc>https://aburd.github.io/page/1/</loc>
             
         </url>
     
         <url>
-            <loc>https://zola-after-dark.netlify.com/some-other-article/</loc>
+            <loc>https://aburd.github.io/recent-projects/</loc>
             
-                <lastmod>2017-09-25</lastmod>
-            
-        </url>
-    
-        <url>
-            <loc>https://zola-after-dark.netlify.com/tags/</loc>
+                <lastmod>2020-07-15</lastmod>
             
         </url>
     
         <url>
-            <loc>https://zola-after-dark.netlify.com/tags/other/</loc>
+            <loc>https://aburd.github.io/some-article/</loc>
             
-        </url>
-    
-        <url>
-            <loc>https://zola-after-dark.netlify.com/tags/rust/</loc>
-            
-        </url>
-    
-        <url>
-            <loc>https://zola-after-dark.netlify.com/tags/ssg/</loc>
+                <lastmod>2020-07-15</lastmod>
             
         </url>
     

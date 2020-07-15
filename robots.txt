@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://zola-after-dark.netlify.com/sitemap.xml
+Sitemap: https://aburd.github.io/sitemap.xml
