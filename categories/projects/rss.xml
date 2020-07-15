@@ -6,15 +6,15 @@
         <description></description>
         <generator>Zola</generator>
         <language>en</language>
-        <atom:link href="https://aburd.github.io/categories/hello-world/rss.xml" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://aburd.github.io/categories/projects/rss.xml" rel="self" type="application/rss+xml"/>
         <lastBuildDate>Wed, 15 Jul 2020 00:00:00 +0000</lastBuildDate>
         
             <item>
-                <title>Hello world</title>
+                <title>Recent Projects</title>
                 <pubDate>Wed, 15 Jul 2020 00:00:00 +0000</pubDate>
-                <link>https://aburd.github.io/hello-world/</link>
-                <guid>https://aburd.github.io/hello-world/</guid>
-                <description>&lt;p&gt;What? Not original, you say?&lt;&#x2F;p&gt;
+                <link>https://aburd.github.io/recent-projects/</link>
+                <guid>https://aburd.github.io/recent-projects/</guid>
+                <description>&lt;p&gt;Thoughts on recent projects...&lt;&#x2F;p&gt;
 </description>
             </item>
         

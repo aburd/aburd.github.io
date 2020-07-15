@@ -1,6 +1,6 @@
 #!/bin/sh
 
-ls | grep -v "src\|deploy.sh" | rm -rf
+ls | grep -v "src\|deploy.sh" | xargs rm -rf
 cd ./src
 zola build
 mv -f ./public/* ../
