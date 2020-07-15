@@ -2,7 +2,7 @@
 
 cd ./src
 zola build
-mv -r ./* ../
+mv -r ./public/* ../
 cd ..
 git add .
 git commit -m "blog deploy for $(date)"
