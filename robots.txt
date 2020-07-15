@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://zola-after-dark.netlify.com/sitemap.xml
