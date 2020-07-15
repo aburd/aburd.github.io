@@ -1,6 +1,6 @@
 base_url = "https://aburd.github.io/"
 compile_sass = true
-title = "aaron burdick's blog"
+title = "aaron burdick (aburds)'s blog"
 description = ""
 generate_feed = true
 
@@ -10,7 +10,7 @@ taxonomies = [
 ]
 
 [extra]
-author = "aaron burdick"
+author = "aburd"
 after_dark_menu = [
     {url = "$BASE_URL", name = "Home"},
     {url = "$BASE_URL/categories", name = "Categories"},
