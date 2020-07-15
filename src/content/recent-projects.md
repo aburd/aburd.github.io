@@ -6,7 +6,7 @@ date = 2020-07-15
 categories = ["projects"]
 +++
 
-Recently, I've been working on two projects in addition to my job. And neither of them particularly well. Well I suppose I've been contributing to one a lot more than the other. Perhaps the payoff for that one project seems more immediate? I suppose, in a matter, is also the most "fun" project, heh. 
+Recently, I've been working on two projects in addition to my job. And neither of them particularly well. Well I suppose I've been contributing to one a lot more than the other. Perhaps the payoff for that one project seems more immediate? I suppose, in a matter, it is also the most "fun" project, heh. But I think it's probably more about development velocity more than anything.
 <!-- more -->
 But all in all, all I can say is I'm absolutely floored with some people's body of work. How can people find the time to contribute so much to software? I suppose I will say that one thing I could do is use my time more wisely, but I think it's absolutely astounding that some people can have families, a job and contribute to open-source. So kudos to all you super men/women out there.
 
