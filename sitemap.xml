@@ -29,6 +29,11 @@
         </url>
     
         <url>
+            <loc>https://aburd.github.io/categories/personal/</loc>
+            
+        </url>
+    
+        <url>
             <loc>https://aburd.github.io/categories/projects/</loc>
             
         </url>
@@ -49,6 +54,13 @@
             <loc>https://aburd.github.io/recent-projects/</loc>
             
                 <lastmod>2020-07-15</lastmod>
+            
+        </url>
+    
+        <url>
+            <loc>https://aburd.github.io/struggling-to-sleep/</loc>
+            
+                <lastmod>2020-07-27</lastmod>
             
         </url>
     
