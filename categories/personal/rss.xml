@@ -7,7 +7,16 @@
         <generator>Zola</generator>
         <language>en</language>
         <atom:link href="https://aburd.github.io/categories/personal/rss.xml" rel="self" type="application/rss+xml"/>
-        <lastBuildDate>Mon, 27 Jul 2020 00:00:00 +0000</lastBuildDate>
+        <lastBuildDate>Sun, 09 Aug 2020 00:00:00 +0000</lastBuildDate>
+        
+            <item>
+                <title>Struggling to sleep: an update</title>
+                <pubDate>Sun, 09 Aug 2020 00:00:00 +0000</pubDate>
+                <link>https://aburd.github.io/struggling-to-sleep-2/</link>
+                <guid>https://aburd.github.io/struggling-to-sleep-2/</guid>
+                <description>&lt;p&gt;Updates on sleep troubles...&lt;&#x2F;p&gt;
+</description>
+            </item>
         
             <item>
                 <title>Struggling to sleep</title>
